@@ -7,3 +7,6 @@
  7) thankyou.
  this line is using git stash command
  this line is updated in staging branch  using cherry-pick command.
+ this line is using git stash command
+ this line is updated in staging branch  using cherry-pick command.
+
