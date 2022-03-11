@@ -1,1 +1,3 @@
  this is a mini text to develop the text file.
+ thi line is updated using the cherry-pick command.
+ this line is also updated through line commands.
