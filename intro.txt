@@ -5,3 +5,10 @@
 5) my aim is to become a successful person and be positive.
 6) and also be happy.
  7) thankyou.
+<<<<<<< HEAD
+=======
+
+ this line is using git stash command
+ this line is updated in staging branch  using cherry-pick command.
+
+>>>>>>> 3845794 (updated)
